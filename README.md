@@ -1,13 +1,14 @@
 # MLAI-Project-Team3
+## This week
 
-Pipeline
-- Apply model
-- Hyperparameter tuning (Only training test)
-- Cross-Validation
-- Compare and Analyze
+* Pipeline
+    1. Apply model
+    2. Hyperparameter tuning (Only training test)
+    3. Cross-Validation
+    4. Compare and Analyze
 
-Model stacking:
-- LightGBM - 
-- RandomForest - Fran
-- XGBoost - Jose
-- CatBoost - SY
+* Model stacking:
+    - LightGBM - EunSeok
+    - RandomForest - Fran
+    - XGBoost - Jose
+    - CatBoost - SY
